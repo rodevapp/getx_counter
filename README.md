@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a simple sample of Flutter power with Get lib.
 
 The project consist in transform the initial App Flutter sample in Getx Flutter App,
-changing the default State Management SetState to Getx State Management, is very simple and very
+changing the default State Management **SetState** to **Getx State Management**, is very simple and very
 easy Getx syntax use.
 
 The initial App color is blue(same the initial Flutter sample), in the Getx App counter the click
@@ -36,6 +36,12 @@ For Reset Buttom:
 
 ### Next Objectives
 
-[] Implement the use of others Getx utils.
-[] Add new functionalities to App.
-[] Playing with Flutter packeges in the App(Google Fonts, Font Awesome, more... ).
+- [ ] Implement the use of others Getx utils:
+> - [ ] Get Storage.
+> - [ ] Get Internationalization.
+> > - [ ] Get Translations.
+> > - [ ] Get Locale.
+- [ ] Playing with Flutter packeges in the App:
+> - [ ] Google Fonts.
+> - [ ] Font Awesome.
+> - [ ] More others packges...
